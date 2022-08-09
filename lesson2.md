@@ -1,11 +1,9 @@
-created fun{
-    write something
-}
+```python
 
-created fun(vetka2){
-    read all
-}
+def hello_git():
+    print("Hello")
 
-created fun(vetka1){
-    del all
-}
+def vetka1():
+    print("Hello vetka1")
+```
+
