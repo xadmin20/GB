@@ -1,6 +1,6 @@
 ```python 
 def hello_git():
-    print("Hello")
+    print("Hello Conflict")
 
 
 def vetka1():
