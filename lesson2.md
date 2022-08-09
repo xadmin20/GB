@@ -1,10 +1,5 @@
-```python 
-def hello_git():
-    print("Hello Conflict")
+Создали изменения для конфликта
 
 
-def vetka1():
-    print("Hello vetka1")
-```
 
-
+VSC 1.70.00
