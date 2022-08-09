@@ -8,7 +8,7 @@ def vetka1():
 ```
 
 
-## поменял
+## Ветка 2
 
 ```python
 def vetka2():
@@ -21,3 +21,4 @@ def vetka2():
 def vetka3():
     print("Hello vetka2")
 ```
+изменяем ветку 3 и вносим в мастер
